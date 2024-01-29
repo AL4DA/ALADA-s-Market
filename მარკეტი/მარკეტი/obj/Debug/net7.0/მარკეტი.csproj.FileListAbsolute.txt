@@ -1,0 +1,14 @@
+/Users/macbook/Desktop/მარკეტი/მარკეტი/bin/Debug/net7.0/მარკეტი
+/Users/macbook/Desktop/მარკეტი/მარკეტი/bin/Debug/net7.0/მარკეტი.deps.json
+/Users/macbook/Desktop/მარკეტი/მარკეტი/bin/Debug/net7.0/მარკეტი.runtimeconfig.json
+/Users/macbook/Desktop/მარკეტი/მარკეტი/bin/Debug/net7.0/მარკეტი.dll
+/Users/macbook/Desktop/მარკეტი/მარკეტი/bin/Debug/net7.0/მარკეტი.pdb
+/Users/macbook/Desktop/მარკეტი/მარკეტი/obj/Debug/net7.0/მარკეტი.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/მარკეტი/მარკეტი/obj/Debug/net7.0/მარკეტი.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/მარკეტი/მარკეტი/obj/Debug/net7.0/მარკეტი.AssemblyInfo.cs
+/Users/macbook/Desktop/მარკეტი/მარკეტი/obj/Debug/net7.0/მარკეტი.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/მარკეტი/მარკეტი/obj/Debug/net7.0/მარკეტი.dll
+/Users/macbook/Desktop/მარკეტი/მარკეტი/obj/Debug/net7.0/refint/მარკეტი.dll
+/Users/macbook/Desktop/მარკეტი/მარკეტი/obj/Debug/net7.0/მარკეტი.pdb
+/Users/macbook/Desktop/მარკეტი/მარკეტი/obj/Debug/net7.0/მარკეტი.genruntimeconfig.cache
+/Users/macbook/Desktop/მარკეტი/მარკეტი/obj/Debug/net7.0/ref/მარკეტი.dll
