@@ -1,3 +1,3 @@
 # ALADA-s-Market
 
-შემოთავაზებული ონლაინ ბაზარი ემსახურება როგორც ყოვლისმომცველ პლატფორმას, სადაც მომხმარებლებს შეუძლიათ დაათვალიერონ, მოძებნონ, შეიძინონ და გაყიდონ პროდუქტები სხვადასხვა კატეგორიებში. სისტემა შექმნილია როგორც მყიდველების, ასევე გამყიდველების მოთხოვნილებების დასაკმაყოფილებლად, რაც უზრუნველყოფს ყველა მომხმარებლისთვის შეუფერხებელ და ეფექტურ სავაჭრო გამოცდილებას.
+The proposed online marketplace serves as a comprehensive platform where users can browse, search, buy and sell products across various categories. The system is designed to meet the needs of both buyers and sellers, ensuring a seamless and efficient trading experience for all users.
